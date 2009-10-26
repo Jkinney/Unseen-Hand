@@ -1,0 +1,5 @@
+D:\Programming\DateRenamer\DateRenamer\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\DateRenamer\DateRenamer\bin\Debug\DateRenamer.exe
+D:\Programming\DateRenamer\DateRenamer\bin\Debug\DateRenamer.pdb
+D:\Programming\DateRenamer\DateRenamer\obj\Debug\DateRenamer.exe
+D:\Programming\DateRenamer\DateRenamer\obj\Debug\DateRenamer.pdb
