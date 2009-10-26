@@ -1,0 +1,7 @@
+D:\Programming\uTorrentAutomator\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Programming\uTorrentAutomator\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Programming\uTorrentAutomator\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\uTorrentAutomator\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Programming\uTorrentAutomator\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Programming\uTorrentAutomator\obj\Debug\ConsoleApplication1.exe
+D:\Programming\uTorrentAutomator\obj\Debug\ConsoleApplication1.pdb

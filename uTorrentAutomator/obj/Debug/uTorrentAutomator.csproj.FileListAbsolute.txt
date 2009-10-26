@@ -1,0 +1,5 @@
+D:\Programming\uTorrentAutomator\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\uTorrentAutomator\bin\Debug\uTorrentAutomator.exe
+D:\Programming\uTorrentAutomator\bin\Debug\uTorrentAutomator.pdb
+D:\Programming\uTorrentAutomator\obj\Debug\uTorrentAutomator.exe
+D:\Programming\uTorrentAutomator\obj\Debug\uTorrentAutomator.pdb
