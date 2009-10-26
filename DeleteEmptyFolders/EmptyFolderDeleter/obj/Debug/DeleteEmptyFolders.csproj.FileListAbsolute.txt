@@ -1,0 +1,10 @@
+D:\Programming\EmptyFolderDeleter\EmptyFolderDeleter\bin\Debug\EmptyFolderDeleter.exe
+D:\Programming\EmptyFolderDeleter\EmptyFolderDeleter\bin\Debug\EmptyFolderDeleter.pdb
+D:\Programming\EmptyFolderDeleter\EmptyFolderDeleter\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\EmptyFolderDeleter\EmptyFolderDeleter\obj\Debug\EmptyFolderDeleter.exe
+D:\Programming\EmptyFolderDeleter\EmptyFolderDeleter\obj\Debug\EmptyFolderDeleter.pdb
+D:\Programming\DeleteEmptyFolders\EmptyFolderDeleter\bin\Debug\DeleteEmptyFolders.exe
+D:\Programming\DeleteEmptyFolders\EmptyFolderDeleter\bin\Debug\DeleteEmptyFolders.pdb
+D:\Programming\DeleteEmptyFolders\EmptyFolderDeleter\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\DeleteEmptyFolders\EmptyFolderDeleter\obj\Debug\DeleteEmptyFolders.exe
+D:\Programming\DeleteEmptyFolders\EmptyFolderDeleter\obj\Debug\DeleteEmptyFolders.pdb
