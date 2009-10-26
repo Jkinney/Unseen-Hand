@@ -1,0 +1,8 @@
+C:\Users\Patrick\Desktop\BirthdayWish\obj\Debug\BirthdayWish.exe
+C:\Users\Patrick\Desktop\BirthdayWish\obj\Debug\BirthdayWish.pdb
+C:\Users\Patrick\Desktop\BirthdayWish\bin\Debug\BirthdayWish.exe
+C:\Users\Patrick\Desktop\BirthdayWish\bin\Debug\BirthdayWish.pdb
+C:\Users\Patrick\Desktop\BirthdayWish\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\BirthdayWish\obj\Debug\BirthdayWish.ProjectInstaller.resources
+C:\Users\Patrick\Desktop\BirthdayWish\obj\Debug\BirthdayWish.Service1.resources
+C:\Users\Patrick\Desktop\BirthdayWish\obj\Debug\BirthdayWish.csproj.GenerateResource.Cache

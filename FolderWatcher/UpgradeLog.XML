@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BirthdayWish">
+</Property><Property Name="Solution File" Value="C:\Users\Patrick\Desktop\BirthdayWish\BirthdayWish.sln">
+</Property><Property Name="Date" Value="Tuesday, July 21, 2009">
+</Property><Property Name="Time" Value="22:39 PM">
+</Property></Properties><Event ErrorLevel="0" Project="BirthdayWish" Source="BirthdayWish.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BirthdayWish" Source="BirthdayWish.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BirthdayWish.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BirthdayWish.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BirthdayWish" Source="BirthdayWish.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

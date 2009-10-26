@@ -1,0 +1,8 @@
+D:\Programming\FolderWatcher\bin\Debug\FolderWatcher.exe
+D:\Programming\FolderWatcher\bin\Debug\FolderWatcher.pdb
+D:\Programming\FolderWatcher\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\FolderWatcher\obj\Debug\BirthdayWish.ProjectInstaller.resources
+D:\Programming\FolderWatcher\obj\Debug\Folderwatcher.FolderWatcher.resources
+D:\Programming\FolderWatcher\obj\Debug\FolderWatcher.csproj.GenerateResource.Cache
+D:\Programming\FolderWatcher\obj\Debug\FolderWatcher.exe
+D:\Programming\FolderWatcher\obj\Debug\FolderWatcher.pdb
